@@ -1,5 +1,5 @@
 ---
-name: "Vprofile IAC"
+name: "Vprofile IAC Workflow"
 on:
   push:
     branches: 
